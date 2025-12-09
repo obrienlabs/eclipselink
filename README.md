@@ -68,7 +68,7 @@ the terms of [Eclipse Contributor Agreement](https://www.eclipse.org/legal/ECA.p
 ## Issue/bug trackers
 
 * [GitHub Issues](https://github.com/eclipse-ee4j/eclipselink/issues), this is preferred bug tracker
-* [Eclipse.org Bugzilla](https://bugs.eclipse.org/bugs/buglist.cgi?product=EclipseLink)
+* [Eclipse.org Bugzilla](https://bugs.eclipse.org/bugs/buglist.cgi?product=EclipseLink) - example [Metamodel API ER](https://bugs.eclipse.org/bugs/show_bug.cgi?id=266912)
 
 Hint: If it's possible, it helps if some test reproducer is attached to the new bug.
 If it's not possible, attached entities and persistence.xml file should help too for JPA related bugs.
